@@ -110,3 +110,4 @@ By completing this project, an intern will:
 
 ---
 # OUTPUT
+<img width="522" height="414" alt="Image" src="https://github.com/user-attachments/assets/815d5b63-9c9a-4622-8ed7-940cdad9e2a8" />
